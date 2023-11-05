@@ -15,6 +15,7 @@ const day = document.getElementById('day');
         hour.innerText = currentHour;
         minute.innerText = currentMinute;
         seconds.innerText = currentSeconds;
+        
       }
 
       // Update the clock initially and then every second
